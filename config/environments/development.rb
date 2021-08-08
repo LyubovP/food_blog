@@ -73,7 +73,7 @@ Rails.application.configure do
 
   # Uncomment if you wish to allow Action Cable access from any origin.
   # config.action_cable.disable_request_forgery_protection = true
-    config.action_mailer.default_url_options = { :host => 'https://716d89b080ac4f37959ffcfaed1f6105.vfs.cloud9.eu-central-1.amazonaws.com' }
+  config.action_mailer.default_url_options = { :host => 'https://716d89b080ac4f37959ffcfaed1f6105.vfs.cloud9.eu-central-1.amazonaws.com' }
   # Allow connections to local server.
   config.hosts.clear
 end

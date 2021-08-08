@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: food-blog
+  api_key: '833852466599535'
+  api_secret: _mGQXJ4Kw1KTJjI6M5CFKr_GrOo
+  enhance_image_tag: true
+  static_file_support: false
+production:
+  cloud_name: food-blog
+  api_key: '833852466599535'
+  api_secret: _mGQXJ4Kw1KTJjI6M5CFKr_GrOo
+  enhance_image_tag: true
+  static_file_support: true
+test:
+  cloud_name: food-blog
+  api_key: '833852466599535'
+  api_secret: _mGQXJ4Kw1KTJjI6M5CFKr_GrOo
+  enhance_image_tag: true
+  static_file_support: false
